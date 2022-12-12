@@ -58,7 +58,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
-    "@ideditor/location-conflation": "~1.0.2",
+    "@ideditor/location-conflation": "~1.1.0",
     "@mapbox/geojson-area": "^0.2.2",
     "@mapbox/geojson-rewind": "^0.5.0",
     "bytes": "^3.1.2",
